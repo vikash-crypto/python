@@ -1,0 +1,5 @@
+suger
+suger
+suger
+& C:/Users/vikas/AppData/Local/Programs/Python/Python311/python.exe "c:/python/todo list.py"
+suger
